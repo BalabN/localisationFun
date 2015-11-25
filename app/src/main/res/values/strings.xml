@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Localisation Fun</string>
+    <string name="hello_world">Select your app:</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_date_time">Date and Time</string>
+    <string name="btn_language">Language</string>
+    <string name="btn_apps">Clear Data</string>
+    <string name="cb_en">English</string>
+    <string name="cb_de">Deutsch</string>
+    <string name="cb_fr">France</string>
+    <string name="cb_ja">Japan</string>
+    <string name="cb_it">Italiana</string>
+    <string name="cb_es">Espanjol</string>
+    <string name="cb_pt">Portugues</string>
+    <string name="cb_ko">Korean</string>
+    <string name="cb_zh">Kitajski</string>
+    <string name="cb_ru">SSSR</string>
+    <string name="cb_tr">Turkce</string>
+    <string name="cb_ar">Arab</string>
+    <string name="clear_check">Clear All</string>
+    <string name="MTT_button">MTT</string>
+    <string name="title_activity_main">ListActivity</string>
+    <string name="strStartApp">Start App</string>
+
+
+</resources>
